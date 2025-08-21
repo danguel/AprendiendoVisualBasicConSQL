@@ -1,0 +1,19 @@
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.exe
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.pdb
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.xml
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\WindowsApplication1.ABMsocio.resources
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.vbproj.GenerateResource.Cache
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.exe
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.xml
+D:\PROY_VB.NET\Clases2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.pdb
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.exe
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.xml
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.pdb
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.exe
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.pdb
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\bin\Debug\ConexionMysql2025.xml
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\WindowsApplication1.ABMsocio.resources
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.vbproj.GenerateResource.Cache
+C:\Users\RYZEN 3\Downloads\ConexionMysql2025\ConexionMysql2025\ConexionMysql2025\obj\x86\Debug\ConexionMysql2025.vbprojResolveAssemblyReference.cache

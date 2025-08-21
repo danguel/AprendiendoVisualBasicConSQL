@@ -1,0 +1,1 @@
+server=localhost; user id=root; password=12356;database=biblioteca;port=3306;
