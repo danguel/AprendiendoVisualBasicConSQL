@@ -1,1 +1,1 @@
-server=localhost; user id=root; password=12356;database=biblioteca;port=3306;
+server=localhost; user id=root; password=root;database=neptuno;port=3306;

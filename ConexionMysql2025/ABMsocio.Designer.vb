@@ -27,7 +27,7 @@ Partial Class ABMsocio
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(53, 80)
+        Me.Button1.Location = New System.Drawing.Point(78, 170)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(121, 50)
         Me.Button1.TabIndex = 0
